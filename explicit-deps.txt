@@ -79,7 +79,7 @@ https://conda.anaconda.org/conda-forge/osx-64/libblas-3.8.0-17_openblas.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libtiff-4.1.0-h2ae36a8_6.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/mpc-1.1.0-ha57cd0f_1009.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pgplot-5.2.2-h971d54c_1006.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.32.3-h93121df_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.32.3-h960bd1c_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cctools-949.0.1-h22b1bf0_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/compiler-rt_osx-64-9.0.1-h99342c6_3.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/gfortran_impl_osx-64-7.5.0-h970e067_1.tar.bz2
@@ -199,7 +199,7 @@ https://conda.anaconda.org/conda-forge/osx-64/afterimage-1.21-hf755657_1003.tar.
 https://conda.anaconda.org/conda-forge/osx-64/ipython-5.8.0-py27_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/nbformat-4.4.0-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pytest-4.6.4-py27_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/astropy-2.0.8-py27_0.tar.bz2
+https://repo.anaconda.com/pkgs/main/osx-64/astropy-2.0.9-py27h1d22016_0.conda
 https://conda.anaconda.org/conda-forge/osx-64/ipykernel-4.10.0-py27_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/nbconvert-5.6.1-py27_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/root-dependencies-6.22.0-py27hdf2d85e_2.tar.bz2
