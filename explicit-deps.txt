@@ -37,7 +37,7 @@ https://conda.anaconda.org/conda-forge/osx-64/libffi-3.2.1-hb1e8313_1007.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libgfortran-4.0.0-2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libllvm8-8.0.1-h770b8ee_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libllvm9-9.0.1-h7475705_1.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/libpng-1.6.37-hbbe82c9_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libpng-1.6.37-hb0a8c7a_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libxcb-1.13-h1de35cc_1002.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/lz4-c-1.9.2-h4a8c4bd_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ncurses-6.2-hb1e8313_1.tar.bz2
