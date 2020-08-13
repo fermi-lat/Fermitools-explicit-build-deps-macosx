@@ -45,7 +45,7 @@ https://conda.anaconda.org/conda-forge/osx-64/openssl-1.1.1g-haf1e3a3_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pcre-8.44-h4a8c4bd_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/tapi-1000.10.8-h879752b_4.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/tbb-2019.9-ha1b3eb9_1.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.10-hbbe82c9_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.10-hb0a8c7a_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/vdt-0.4.3-h6de7cb9_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/zeromq-4.3.2-h6de7cb9_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/clang-9.0.1-default_hf57f61e_0.tar.bz2
