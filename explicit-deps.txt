@@ -121,6 +121,7 @@ https://conda.anaconda.org/conda-forge/noarch/smmap-3.0.4-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/subprocess32-3.5.4-py27h0b31af3_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/testpath-0.4.4-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/webencodings-0.5.1-py_1.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/wheel-0.35.1-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/appnope-0.1.0-py27h8c360ce_1001.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/backports.shutil_get_terminal_size-1.0.0-py_3.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/blas-2.17-openblas.tar.bz2
@@ -178,9 +179,9 @@ https://conda.anaconda.org/conda-forge/noarch/jinja2-2.11.2-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jupyter_core-4.6.3-py27h8c360ce_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/numba-0.47.0-py27h4f17bb1_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pickleshare-0.7.5-py27h8c360ce_1001.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/pip-20.1.1-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/pygments-2.5.2-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/terminado-0.8.3-py27h8c360ce_1.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/wheel-0.34.2-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/compilers-1.1.0-0.tar.bz2
 https://conda.anaconda.org/fermi/noarch/fermi-repoman-0.2.8-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/gdk-pixbuf-2.38.2-h306395f_4.tar.bz2
@@ -188,7 +189,6 @@ https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-1.5.0-1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jupyter_client-5.3.4-py27_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/matplotlib-base-2.2.5-py27h11da6c2_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pango-1.42.4-haa940fe_4.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/pip-20.1.1-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/wcwidth-0.2.5-pyh9f0ad1d_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jsonschema-3.2.0-py27h8c360ce_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/librsvg-2.49.3-h1ccd86b_0.tar.bz2
