@@ -3,7 +3,7 @@
 # platform: osx-64
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/osx-64/bzip2-1.0.8-haf1e3a3_3.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/c-ares-1.16.1-haf1e3a3_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/c-ares-1.16.1-haf1e3a3_3.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ca-certificates-2020.6.20-hecda079_0.tar.bz2
 https://conda.anaconda.org/fermi/osx-64/f2c-0.0.2-h1de35cc_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/fribidi-1.0.10-h0b31af3_0.tar.bz2
@@ -56,7 +56,7 @@ https://conda.anaconda.org/conda-forge/osx-64/gl2ps-1.4.2-h8da9a1a_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/isl-0.22.1-h65ac59c_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ld64_osx-64-530-h3c32e8a_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libedit-3.1.20191231-h0678c8f_2.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/libnghttp2-1.41.0-h8a08a2b_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libnghttp2-1.41.0-h7580e61_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libopenblas-0.3.10-openmp_h63d9170_4.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libssh2-1.9.0-h8a08a2b_5.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libxml2-2.9.10-h2c6e4a5_2.tar.bz2
@@ -65,7 +65,7 @@ https://conda.anaconda.org/conda-forge/osx-64/readline-8.0-h0678c8f_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/swig-4.0.2-h4a8c4bd_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/tbb-devel-2019.9-ha1b3eb9_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/xerces-c-3.2.3-h0a0444a_1.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/xorg-libx11-1.6.11-haf1e3a3_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/xorg-libx11-1.6.12-haf1e3a3_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/zstd-1.4.5-h289c70a_2.tar.bz2
 https://conda.anaconda.org/fermi/osx-64/ape-3.0.0-h1de35cc_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cctools_osx-64-949.0.1-h5ba7a2e_0.tar.bz2
@@ -82,7 +82,7 @@ https://conda.anaconda.org/conda-forge/osx-64/pgplot-5.2.2-h971d54c_1006.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.33.0-h960bd1c_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cctools-949.0.1-h22b1bf0_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/compiler-rt_osx-64-9.0.1-h99342c6_3.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/gfortran_impl_osx-64-7.5.0-h970e067_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/gfortran_impl_osx-64-7.5.0-h8c88956_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/graphviz-2.42.3-h98dfb87_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libcblas-3.8.0-17_openblas.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libcurl-7.71.1-h9bf37e3_5.tar.bz2
