@@ -85,7 +85,7 @@ https://conda.anaconda.org/conda-forge/noarch/compiler-rt_osx-64-9.0.1-h99342c6_
 https://conda.anaconda.org/conda-forge/osx-64/gfortran_impl_osx-64-7.5.0-hae4d780_6.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/graphviz-2.42.3-h98dfb87_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libblas-3.8.0-17_openblas.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/libcurl-7.71.1-h9bf37e3_5.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libcurl-7.71.1-h9bf37e3_6.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/python-2.7.15-h8e446fc_1011_cpython.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/atomicwrites-1.4.0-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/attrs-20.2.0-pyh9f0ad1d_0.tar.bz2
@@ -95,7 +95,7 @@ https://conda.anaconda.org/conda-forge/osx-64/cfitsio-3.470-hdf94aef_6.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/click-7.1.2-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/compiler-rt-9.0.1-h6a512c6_3.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/contextlib2-0.6.0.post1-py_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/curl-7.71.1-hcb81553_5.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/curl-7.71.1-hcb81553_6.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/decorator-4.4.2-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/defusedxml-0.6.0-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/funcsigs-1.0.2-py_3.tar.bz2
