@@ -259,4 +259,4 @@ https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.5-pyhd3deb0d_0.tar
 https://conda.anaconda.org/conda-forge/osx-64/reproject-0.7.1-py37h7ff7679_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/aplpy-2.0.3-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/root-6.22.2-py37h3138373_2.tar.bz2
-https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.6-0.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-1.4.4-0.tar.bz2
