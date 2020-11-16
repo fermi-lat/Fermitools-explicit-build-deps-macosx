@@ -17,7 +17,7 @@ https://conda.anaconda.org/conda-forge/osx-64/libiconv-1.16-haf1e3a3_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libsodium-1.0.18-hbcb3906_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libwebp-base-1.1.0-hbcb3906_3.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/llvm-openmp-11.0.0-h73239a0_1.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/ncurses-6.2-h2e338ed_3.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/ncurses-6.2-h2e338ed_4.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pandoc-2.11.1.1-hbcb3906_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/perl-5.32.0-hbcb3906_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pixman-0.40.0-hbcb3906_0.tar.bz2
@@ -246,11 +246,11 @@ https://conda.anaconda.org/conda-forge/osx-64/root_base-6.22.2-py37h9432318_2.ta
 https://conda.anaconda.org/conda-forge/osx-64/scikit-image-0.17.2-py37h9b0e0a3_4.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/compilers-1.1.1-1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ipython-7.19.0-py37he01cfaa_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/nbconvert-6.0.7-py37hc8dfbb8_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/nbconvert-6.0.7-py37hf985489_3.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/pytest-astropy-0.8.0-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/root-binaries-6.22.2-py37h3138373_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/astropy-3.2.3-py37h0b31af3_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/ipykernel-5.3.4-py37hc6149b9_1.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/ipykernel-5.3.4-py37he01cfaa_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/astropy-healpix-0.5-py37h7ff7679_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ipyparallel-6.3.0-py37hc8dfbb8_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/notebook-6.1.5-py37hf985489_0.tar.bz2
