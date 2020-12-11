@@ -14,7 +14,7 @@
         ██║ ╚═╝ ██║██║  ██║██║ ╚═╝ ██║██████╔╝██║  ██║
         ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝
 
-        mamba (0.7.4) supported by @QuantStack
+        mamba (0.7.5) supported by @QuantStack
 
         GitHub:  https://github.com/mamba-org/mamba
         Twitter: https://twitter.com/QuantStack
@@ -215,7 +215,7 @@ https://conda.anaconda.org/conda-forge/osx-64/xrootd-5.0.3-py37hd376d8d_0.tar.bz
 https://conda.anaconda.org/conda-forge/osx-64/argon2-cffi-20.1.0-py37h60d8a13_2.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/black-20.8b1-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/compiler-rt_osx-64-11.0.0-hd3c4e95_2.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/dask-core-2.30.0-py_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/dask-core-2020.12.0-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.11-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/gsl-2.6-h71c5fe9_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-3.1.1-hd8ed1ab_0.tar.bz2
@@ -228,7 +228,7 @@ https://conda.anaconda.org/conda-forge/noarch/backports.functools_lru_cache-1.6.
 https://conda.anaconda.org/conda-forge/noarch/bleach-3.2.1-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/compiler-rt-11.0.0-h01488ec_2.tar.bz2
 https://conda.anaconda.org/fermi/noarch/fermi-repoman-0.2.8-py_0.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/hypothesis-5.43.2-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/hypothesis-5.43.3-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/imagecodecs-2020.5.30-py37hf4bcbe5_4.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/imageio-2.9.0-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/jinja2-2.11.2-pyh9f0ad1d_0.tar.bz2
