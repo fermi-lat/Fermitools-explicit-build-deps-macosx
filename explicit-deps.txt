@@ -275,7 +275,7 @@ https://conda.anaconda.org/conda-forge/noarch/pytest-astropy-0.8.0-pyhd8ed1ab_0.
 https://conda.anaconda.org/conda-forge/osx-64/root_base-6.22.6-py37h1ff80a4_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/astropy-3.2.3-py37h0b31af3_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/compilers-1.1.2-h694c41f_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/ipykernel-5.4.0-py37he01cfaa_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/ipykernel-5.4.2-py37he01cfaa_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/root-binaries-6.22.6-py37ha0830e8_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/astropy-healpix-0.5-py37h8ba3199_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ipyparallel-6.3.0-py37hc8dfbb8_1.tar.bz2
