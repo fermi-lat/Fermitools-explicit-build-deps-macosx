@@ -124,7 +124,7 @@ https://conda.anaconda.org/conda-forge/noarch/idna-2.10-pyh9f0ad1d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/ipython_genutils-0.2.0-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/lcms2-2.12-h577c468_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libblas-3.9.0-8_openblas.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/libglib-2.68.2-hd556434_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libglib-2.68.3-hd556434_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libwebp-1.2.0-h1648767_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/osx-64/locket-0.2.1-py37hecd8cb5_1.conda
 https://conda.anaconda.org/conda-forge/noarch/nest-asyncio-1.5.1-pyhd8ed1ab_0.tar.bz2
@@ -207,7 +207,7 @@ https://conda.anaconda.org/conda-forge/osx-64/jupyter_core-4.7.1-py37hf985489_0.
 https://conda.anaconda.org/conda-forge/noarch/matplotlib-inline-0.1.2-pyhd8ed1ab_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/numpy-1.20.3-py37h84c02c4_1.tar.bz2
 https://repo.anaconda.com/pkgs/main/osx-64/setuptools-52.0.0-py37hecd8cb5_0.conda
-https://conda.anaconda.org/conda-forge/osx-64/terminado-0.10.0-py37hf985489_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/terminado-0.10.1-py37hf985489_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/backports.functools_lru_cache-1.6.4-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/bleach-3.3.0-pyh44b312d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/compiler-rt-11.1.0-h654b07c_0.tar.bz2
@@ -263,4 +263,4 @@ https://conda.anaconda.org/conda-forge/osx-64/ipyparallel-6.3.0-py37hf985489_2.t
 https://conda.anaconda.org/conda-forge/noarch/notebook-6.4.0-pyha770c72_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.5-pyhd3deb0d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/root-6.22.6-py37h1cbf7fc_2.tar.bz2
-https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.16-0.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.18-0.tar.bz2
