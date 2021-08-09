@@ -234,7 +234,7 @@ https://conda.anaconda.org/conda-forge/osx-64/gtk2-2.24.33-h675d97a_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/jsonschema-3.2.0-py37hc8dfbb8_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/jupyter_client-6.1.12-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/librsvg-2.50.7-hd2a7919_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/matplotlib-base-3.4.2-py37hb018525_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/matplotlib-base-3.4.2-py37h3147e9e_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/numba-0.53.1-py37h0183300_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/pip-21.2.3-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/pygments-2.9.0-pyhd8ed1ab_0.tar.bz2
@@ -274,4 +274,4 @@ https://conda.anaconda.org/conda-forge/osx-64/ipyparallel-6.3.0-py37hf985489_2.t
 https://conda.anaconda.org/conda-forge/noarch/notebook-6.4.2-pyha770c72_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.5-pyhd3deb0d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/root-6.22.6-py37h1cbf7fc_2.tar.bz2
-https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.20-0.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.22-0.tar.bz2
