@@ -193,7 +193,7 @@ https://conda.anaconda.org/conda-forge/osx-64/pexpect-4.8.0-py37hc8dfbb8_1.tar.b
 https://conda.anaconda.org/conda-forge/osx-64/pickleshare-0.7.5-py37hc8dfbb8_1002.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pillow-8.2.0-py37hd4e48bc_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pmw-2.0.1-py37hf985489_1004.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/portalocker-2.0.0-py37hf985489_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/portalocker-2.2.0-py37hf985489_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pyrsistent-0.17.3-py37h271585c_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pysocks-1.7.1-py37hf985489_3.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pythia8-8.244-py37h54c7649_2.tar.bz2
@@ -274,4 +274,4 @@ https://conda.anaconda.org/conda-forge/osx-64/ipyparallel-6.3.0-py37hf985489_2.t
 https://conda.anaconda.org/conda-forge/noarch/notebook-6.4.2-pyha770c72_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.5-pyhd3deb0d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/root-6.22.6-py37h1cbf7fc_2.tar.bz2
-https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.22-0.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.23-0.tar.bz2
