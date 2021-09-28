@@ -218,7 +218,7 @@ https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.24-pyhd8ed1ab_0.tar.
 https://conda.anaconda.org/conda-forge/osx-64/gsl-2.6-h71c5fe9_2.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-4.8.1-hd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/jinja2-3.0.1-pyhd8ed1ab_0.tar.bz2
-https://conda.anaconda.org/conda-forge/noarch/jupyter_client-7.0.3-pyhd8ed1ab_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/jupyter_client-7.0.4-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/networkx-2.5-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/numpy-1.21.2-py37haefe36b_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/pango-1.48.10-ha05cd14_1.tar.bz2
@@ -275,4 +275,4 @@ https://conda.anaconda.org/conda-forge/osx-64/scikit-image-0.18.3-py37h5b83a90_0
 https://conda.anaconda.org/conda-forge/noarch/aplpy-2.0.3-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.5-pyhd3deb0d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/root-6.22.6-py37h1cbf7fc_2.tar.bz2
-https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.26-0.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.27-0.tar.bz2
