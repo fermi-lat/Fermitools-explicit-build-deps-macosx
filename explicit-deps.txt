@@ -277,4 +277,4 @@ https://conda.anaconda.org/conda-forge/osx-64/scikit-image-0.18.3-py37h5b83a90_0
 https://conda.anaconda.org/conda-forge/noarch/aplpy-2.0.3-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.5-pyhd3deb0d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/root-6.22.6-py37ha0830e8_0.tar.bz2
-https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.28-0.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.29-0.tar.bz2
