@@ -38,7 +38,7 @@ https://conda.anaconda.org/conda-forge/osx-64/xorg-xproto-7.0.31-h35c211d_1007.t
 https://conda.anaconda.org/conda-forge/osx-64/xxhash-0.8.0-h35c211d_3.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/xz-5.2.5-haf1e3a3_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/yaml-0.2.5-haf1e3a3_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h7795811_1010.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h9173be1_1011.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/blosc-1.21.0-he49afe7_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/charls-2.2.0-h046ec9c_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/clhep-2.4.5.1-he49afe7_0.tar.bz2
@@ -277,4 +277,4 @@ https://conda.anaconda.org/conda-forge/osx-64/scikit-image-0.18.3-py37h5b83a90_0
 https://conda.anaconda.org/conda-forge/noarch/aplpy-2.0.3-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/metakernel-0.27.5-pyhd3deb0d_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/root-6.22.6-py37ha0830e8_0.tar.bz2
-https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.29-0.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.30-0.tar.bz2
