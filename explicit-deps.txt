@@ -5,7 +5,7 @@
 https://conda.anaconda.org/conda-forge/osx-64/bzip2-1.0.8-h0d85af4_4.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/c-ares-1.17.2-h0d85af4_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ca-certificates-2021.5.30-h033912b_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/f2c-20160103-h1de35cc_1001.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/f2c-0.0.2-h1de35cc_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/font-ttf-dejavu-sans-mono-2.37-hab24e00_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/font-ttf-inconsolata-3.000-h77eed37_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/font-ttf-source-code-pro-2.038-h77eed37_0.tar.bz2
