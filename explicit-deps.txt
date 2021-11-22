@@ -40,4 +40,4 @@ https://conda.anaconda.org/conda-forge/osx-64/libcblas-3.9.0-12_osx64_openblas.t
 https://conda.anaconda.org/conda-forge/osx-64/setuptools-59.2.0-py37hf985489_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/gsl-2.6-h71c5fe9_2.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/pip-21.3.1-pyhd8ed1ab_0.tar.bz2
-https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.32-0.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.36-0.tar.bz2
