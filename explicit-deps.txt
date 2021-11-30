@@ -23,7 +23,7 @@ https://conda.anaconda.org/conda-forge/osx-64/zlib-1.2.11-h9173be1_1013.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libgfortran-5.0.0-9_3_0_h6c81a4c_23.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libnghttp2-1.43.0-hfd382f3_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libssh2-1.10.0-hd3787cc_2.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.36.0-h23a322b_2.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.37.0-h23a322b_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.11-h5dbffcc_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/xerces-c-3.2.3-h6564042_4.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/zstd-1.4.9-h582d3a0_0.tar.bz2
@@ -37,7 +37,7 @@ https://conda.anaconda.org/conda-forge/osx-64/python_abi-3.7-2_cp37m.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/wheel-0.37.0-pyhd8ed1ab_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cfitsio-3.470-h01dc385_7.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libcblas-3.9.0-12_osx64_openblas.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/setuptools-59.2.0-py37hf985489_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/setuptools-59.4.0-py37hf985489_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/gsl-2.6-h71c5fe9_2.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/pip-21.3.1-pyhd8ed1ab_0.tar.bz2
 https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.37-0.tar.bz2
