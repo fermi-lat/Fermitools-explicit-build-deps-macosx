@@ -27,12 +27,12 @@ https://conda.anaconda.org/conda-forge/osx-64/sqlite-3.37.0-h23a322b_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/tk-8.6.11-h5dbffcc_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/xerces-c-3.2.3-h6564042_4.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/zstd-1.4.9-h582d3a0_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/fftw-3.3.10-nompi_h4024a70_101.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/fftw-3.3.10-nompi_hf082fe4_102.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/krb5-1.19.2-h289aae4_3.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libopenblas-0.3.18-openmp_h3351f45_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/python-3.7.12-hf3644f1_100_cpython.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/libblas-3.9.0-12_osx64_openblas.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/libcurl-7.80.0-h97da3c1_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/libcurl-7.80.0-h97da3c1_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/python_abi-3.7-2_cp37m.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/wheel-0.37.0-pyhd8ed1ab_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/cfitsio-3.470-h01dc385_7.tar.bz2
@@ -40,4 +40,4 @@ https://conda.anaconda.org/conda-forge/osx-64/libcblas-3.9.0-12_osx64_openblas.t
 https://conda.anaconda.org/conda-forge/osx-64/setuptools-59.4.0-py37hf985489_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/gsl-2.6-h71c5fe9_2.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/pip-21.3.1-pyhd8ed1ab_0.tar.bz2
-https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.37-0.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.38-0.tar.bz2
