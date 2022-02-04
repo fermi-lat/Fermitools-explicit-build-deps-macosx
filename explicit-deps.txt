@@ -41,4 +41,4 @@ https://conda.anaconda.org/conda-forge/osx-64/setuptools-60.7.1-py37hf985489_0.t
 https://conda.anaconda.org/conda-forge/osx-64/gsl-2.6-h71c5fe9_2.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/healpix_cxx-3.80-h1a6db18_0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/pip-22.0.3-pyhd8ed1ab_0.tar.bz2
-https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.38-0.tar.bz2
+https://conda.anaconda.org/fermi/osx-64/fermitools-build-deps-2.0.39-0.tar.bz2
